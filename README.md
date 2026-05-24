@@ -58,7 +58,7 @@ Connection con = DriverManager.getConnection(
 
 ## 👨‍🎓 Author
 Developed by: Ramisa Ali Salwa
-Project Type: Academic / Practice Project
+
 
 ## 📜 License
 This project is for educational purposes only.
