@@ -18,7 +18,6 @@ This system replaces manual record-keeping with a digital solution, improving ac
 - Programming Language: Java
 - IDE: NetBeans
 - Database: MySQL / SQL Server
-- GUI: Java Swing
 - Database Connectivity: JDBC
 
 
